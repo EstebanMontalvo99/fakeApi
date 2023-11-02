@@ -1,0 +1,156 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Pizza1",
+      "address": "Los Arupos 234pb",
+      "PostCode": "3DH",
+      "Rating": "4.5 Pizza",
+      "typeOfFood": "pizza"
+    },
+    {
+      "id": 2,
+      "name": "Burger Place",
+      "address": "Sunset Boulevard 123",
+      "PostCode": "5LM",
+      "Rating": "4.2 Burgers",
+      "typeOfFood": "burger"
+    },
+    {
+      "id": 3,
+      "name": "Taco Haven",
+      "address": "Main Street 789",
+      "PostCode": "8PS",
+      "Rating": "4.7 Tacos",
+      "typeOfFood": "taco"
+    },
+    {
+      "id": 4,
+      "name": "Sushi Palace",
+      "address": "Sakura Avenue 17",
+      "PostCode": "4UJ",
+      "Rating": "4.8 Sushi",
+      "typeOfFood": "sushi"
+    },
+    {
+      "id": 5,
+      "name": "Pasta Paradise",
+      "address": "Via Roma 88",
+      "PostCode": "2WF",
+      "Rating": "4.6 Pasta",
+      "typeOfFood": "pasta"
+    },
+    {
+      "id": 6,
+      "name": "Sandwich Spot",
+      "address": "Broadway Street 54",
+      "PostCode": "6QA",
+      "Rating": "4.3 Sandwiches",
+      "typeOfFood": "sandwich"
+    },
+    {
+      "id": 7,
+      "name": "Pho King",
+      "address": "Hanoi Road 21",
+      "PostCode": "7RC",
+      "Rating": "4.9 Pho",
+      "typeOfFood": "pho"
+    },
+    {
+      "id": 8,
+      "name": "Steakhouse Central",
+      "address": "Grill Avenue 97",
+      "PostCode": "1BJ",
+      "Rating": "4.7 Steak",
+      "typeOfFood": "steak"
+    },
+    {
+      "id": 9,
+      "name": "Falafel Corner",
+      "address": "Falafel Street 32",
+      "PostCode": "9GD",
+      "Rating": "4.4 Falafel",
+      "typeOfFood": "falafel"
+    },
+    {
+      "id": 10,
+      "name": "Vegetarian Delights",
+      "address": "Green Road 66",
+      "PostCode": "0OK",
+      "Rating": "4.5 Vegetarian",
+      "typeOfFood": "vegetarian"
+    },
+    {
+      "id": 11,
+      "name": "Seafood Cove",
+      "address": "Ocean Drive 13",
+      "PostCode": "1RE",
+      "Rating": "4.8 Seafood",
+      "typeOfFood": "seafood"
+    },
+    {
+      "id": 12,
+      "name": "Ice Cream Emporium",
+      "address": "Sundae Street 29",
+      "PostCode": "2FI",
+      "Rating": "4.6 Ice Cream",
+      "typeOfFood": "ice cream"
+    },
+    {
+      "id": 13,
+      "name": "Indian Spice Villa",
+      "address": "Spice Route 83",
+      "PostCode": "3WC",
+      "Rating": "4.7 Indian",
+      "typeOfFood": "indian"
+    },
+    {
+      "id": 14,
+      "name": "BBQ Haven",
+      "address": "Grill Street 41",
+      "PostCode": "4SH",
+      "Rating": "4.4 BBQ",
+      "typeOfFood": "bbq"
+    },
+    {
+      "id": 15,
+      "name": "Mediterranean Bistro",
+      "address": "Olive Avenue 75",
+      "PostCode": "5AA",
+      "Rating": "4.5 Mediterranean",
+      "typeOfFood": "mediterranean"
+    },
+    {
+      "id": 16,
+      "name": "Smoothie Shack",
+      "address": "Fruit Avenue 11",
+      "PostCode": "6UF",
+      "Rating": "4.3 Smoothies",
+      "typeOfFood": "smoothie"
+    },
+    {
+      "id": 17,
+      "name": "Café Latte Lounge",
+      "address": "Coffee Street 22",
+      "PostCode": "7PL",
+      "Rating": "4.8 Coffee",
+      "typeOfFood": "coffee"
+    },
+    {
+      "id": 18,
+      "name": "Diner Dexterity",
+      "address": "Retro Road 32",
+      "PostCode": "8HM",
+      "Rating": "4.6 Diner",
+      "typeOfFood": "diner"
+    },
+    {
+      "id": 19,
+      "name": "Thai Terrace",
+      "address": "Bangkok Street 21",
+      "PostCode": "9BX",
+      "Rating": "4.7 Thai",
+      "typeOfFood": "thai"
+    }
+  ]
+}
